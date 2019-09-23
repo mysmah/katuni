@@ -28,7 +28,7 @@ A a, B b, C c, D d, E e, F f, G g, H h, I i, J j, K k, L l, M m, N n, O o, P p, 
 
 * re- - повторное/обратное действие
 
-* inter- - между
+* inter- - между-
 
 ## Суффиксы
 
@@ -331,6 +331,10 @@ A a, B b, C c, D d, E e, F f, G g, H h, I i, J j, K k, L l, M m, N n, O o, P p, 
 * entaro - весь, целый
 
 * valido - валидный, допустимый, правильный
+
+* rapido - быстрый
+
+* inteligento - умный
 
 ## Наречия
 
