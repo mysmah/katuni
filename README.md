@@ -356,6 +356,10 @@ A a, B b, C c, D d, E e, F f, G g, H h, I i, J j, K k, L l, M m, N n, O o, P p, 
 
 * hasta - до
 
+* ebla - возможно
+
+* alsa - также, тоже
+
 ## Глаголы
 
 * este - быть
@@ -400,6 +404,10 @@ A a, B b, C c, D d, E e, F f, G g, H h, I i, J j, K k, L l, M m, N n, O o, P p, 
 
 * kope - копировать
 
+* eble - может (быть)
+
+* hope - надеяться
+
 ## Арктикли
 
 * lu - определённый артикль
@@ -430,7 +438,7 @@ A a, B b, C c, D d, E e, F f, G g, H h, I i, J j, K k, L l, M m, N n, O o, P p, 
 
 * inu - в
 
-* baju - используя, с помощью, указание автора
+* baju - аналог творительного падежа
 
 * sopru - на
 
