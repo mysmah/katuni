@@ -62,7 +62,7 @@ A a, B b, C c, D d, E e, F f, G g, H h, I i, J j, K k, L l, M m, N n, O o, P p, 
 
 * -uj- - совершенный вид
 
-* -it- - -ство
+* -itud- - абстрактное существительное
 
 * -ec- - результат действия
 
@@ -228,9 +228,9 @@ A a, B b, C c, D d, E e, F f, G g, H h, I i, J j, K k, L l, M m, N n, O o, P p, 
 
 * suhi - поиск
 
-* uniti - единство
+* unitudi - единство
 
-* unitozi - объединение, союз
+* unitudozi - объединение, союз
 
 * libri - книга
 
